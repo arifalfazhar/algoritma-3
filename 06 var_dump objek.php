@@ -1,13 +1,13 @@
 <?php
-class motor {
+class Bunga {
     public $jenis;
     public $warna;
 }
 
 $nama_bunga = new Bunga();
-$nama_bunga->jenis = "rx king ";
-$nama_bunga->warna = "black";
+$nama_bunga->jenis = "mawar ";
+$nama_bunga->warna = "merah";
 
-var_dump($nama_motor);
+var_dump($nama_bunga);
 echo "<br><br><strong>By:arif alfazhar";
 ?>
